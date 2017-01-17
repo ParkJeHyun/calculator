@@ -30,6 +30,7 @@ int main(int argc, char* argv[])
 	}
 	
 	printf("result is %d.\n", result);
+	printf("test");
 	
 	return 0;
 }
